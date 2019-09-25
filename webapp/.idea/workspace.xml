@@ -7,25 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9d04ee2-d8e7-478c-af4c-f4ac5ac3106a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sql Scripts/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Sql Scripts/create.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Customer Tracker/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/Customer Tracker/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Customer Tracker/WEB-INF/classes/com/myfirstwebapp/Controllers/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Customer Tracker/WEB-INF/classes/com/myfirstwebapp/Controllers/CustomerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Customer Tracker/WEB-INF/classes/com/myfirstwebapp/DAO/CustomerDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Customer Tracker/WEB-INF/classes/com/myfirstwebapp/DAO/CustomerDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Customer Tracker/WEB-INF/classes/com/myfirstwebapp/DAO/CustomerDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Customer Tracker/WEB-INF/classes/com/myfirstwebapp/DAO/CustomerDAOImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Customer Tracker/WEB-INF/classes/com/myfirstwebapp/Entities/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Customer Tracker/WEB-INF/classes/com/myfirstwebapp/Entities/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Customer Tracker/WEB-INF/classes/com/myfirstwebapp/Jdbc/TestJdbc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Customer Tracker/WEB-INF/classes/com/myfirstwebapp/Jdbc/TestJdbc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Customer Tracker/WEB-INF/classes/com/myfirstwebapp/Services/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Customer Tracker/WEB-INF/classes/com/myfirstwebapp/Services/CustomerService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Customer Tracker/WEB-INF/classes/com/myfirstwebapp/Services/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Customer Tracker/WEB-INF/classes/com/myfirstwebapp/Services/CustomerServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/myfirstwebapp/Controllers/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myfirstwebapp/Controllers/CustomerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/myfirstwebapp/DAO/CustomerDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myfirstwebapp/DAO/CustomerDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/myfirstwebapp/DAO/CustomerDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myfirstwebapp/DAO/CustomerDAOImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/myfirstwebapp/Entities/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myfirstwebapp/Entities/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/myfirstwebapp/Jdbc/TestJdbc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myfirstwebapp/Jdbc/TestJdbc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/myfirstwebapp/Services/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myfirstwebapp/Services/CustomerService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/myfirstwebapp/Services/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myfirstwebapp/Services/CustomerServiceImpl.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -52,11 +35,12 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1PPRbxuAeLDuuLpzs8qGRzdcwSa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Jackson" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -89,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.22">
+  <component name="RunManager" selected="Application.TestJdbc">
     <configuration name="TestJdbc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.myfirstwebapp.Jdbc.TestJdbc" />
       <module name="CustomerTracker" />
@@ -178,7 +162,6 @@
     </configuration>
     <list>
       <item itemvalue="Application.TestJdbc" />
-      <item itemvalue="Tomcat Server.Tomcat 9.0.22" />
     </list>
     <recent_temporary>
       <list>
